@@ -18,7 +18,7 @@ At the meeting we will first workshop the works in progress together. Second, we
 
 We have limited funds for travel and housing for some participants, which we plan to allocate primarily to early career scholars.
 
-We invite you to contribute to this volume by filling out this ![form](https://goo.gl/forms/ddMQE36kWievsmG92), including a title and abstract. Please direct questions to Matt Jones (mjones@columbia.edu) and/or Jonnie Penn (jnp28@cam.ac.uk). 
+We invite you to contribute to this volume by filling out this form: https://goo.gl/forms/ddMQE36kWievsmG92, including a title and abstract. Please direct questions to Matt Jones (mjones@columbia.edu) and/or Jonnie Penn (jnp28@cam.ac.uk). 
 
 Join a new list serve on the History of AI here: https://lists.cam.ac.uk/mailman/listinfo/ucam-cfi-aihistoriansnetwork .
 
