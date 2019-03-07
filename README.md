@@ -4,6 +4,8 @@
 ### Workshop at Columbia University
 May 24, 2019
 
+*Due date* for abstracts: March 18, 2019. 
+
 No thorough professional history of artificial intelligence and machine learning from World War II to the present exists, despite the longstanding importance of the field to intellectual history, the history of science and technology, and its spectacular and explosive rise in quotidian systems worldwide in the last decade, for good, for evil—and, well, for--the jury’s still out. Numerous participant histories, written by former researchers, provide a rich if largely internalist view of the field’s development.
 
 No one scholar could write such a broad ranging history with authority. We seek to scaffold one by bringing together a broad community of scholars. In May 2019, with support from Center for Science and Society at Columbia University and the Leverhulme Center for the Future of Intelligence (CFI) at the University of Cambridge, a group of historians will gather to share their current research and plan a short volume on the major stages of AI's development since the Second World War. 
@@ -16,7 +18,7 @@ At the meeting we will first workshop the works in progress together. Second, we
 
 We have limited funds for travel and housing for some participants, which we plan to allocate primarily to early career scholars.
 
-We invite you to contribute to this volume by filling out this form, including a title and abstract. Please direct questions to Matt Jones (mjones@columbia.edu) and/or Jonnie Penn (jnp28@cam.ac.uk). 
+We invite you to contribute to this volume by filling out this ![form](https://goo.gl/forms/ddMQE36kWievsmG92), including a title and abstract. Please direct questions to Matt Jones (mjones@columbia.edu) and/or Jonnie Penn (jnp28@cam.ac.uk). 
 
 Join a new list serve on the History of AI here: https://lists.cam.ac.uk/mailman/listinfo/ucam-cfi-aihistoriansnetwork .
 
