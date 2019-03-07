@@ -25,21 +25,29 @@ Join a new list serve on the History of AI here: https://lists.cam.ac.uk/mailman
 
 Organizers:
 
+
 - Stephanie Dick, History and Sociology of Science and Medicine, Pennsylvania
+
 
 - Matthew L. Jones, History, Columbia; Big Data and Science Studies Cluster, Center for Science and Society
 
+
 - Jonnie Penn, HPS, Cambridge, Harvard Berkman-Klein, and Leverhulme Centre for History of the Future of Intelligence
+
 
 - Aaron Plasek, Columbia
 
 Current Funders:
 
+
 + Center for Science and Society, Columbia University
+
 
 + Division of Social Science, Columbia University
 
+
 + Leibniz Fund
+
 
 + Leverhulme Centre for History of the Future of Intelligence
 
