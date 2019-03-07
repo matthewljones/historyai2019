@@ -4,7 +4,7 @@
 ### Workshop at Columbia University
 May 24, 2019
 
-*Due date* for abstracts: March 18, 2019. 
+*Due date* for abstracts: March 18, 2019, 5pm EST. 
 
 No thorough professional history of artificial intelligence and machine learning from World War II to the present exists, despite the longstanding importance of the field to intellectual history, the history of science and technology, and its spectacular and explosive rise in quotidian systems worldwide in the last decade, for good, for evil—and, well, for--the jury’s still out. Numerous participant histories, written by former researchers, provide a rich if largely internalist view of the field’s development.
 
@@ -18,7 +18,7 @@ At the meeting we will first workshop the works in progress together. Second, we
 
 We have limited funds for travel and housing for some participants, which we plan to allocate primarily to early career scholars.
 
-We invite you to contribute to this volume by filling out this form: https://goo.gl/forms/ddMQE36kWievsmG92, including a title and abstract. Please direct questions to Matt Jones (mjones@columbia.edu) and/or Jonnie Penn (jnp28@cam.ac.uk). 
+We invite you to apply to join the workshop by filling out this form: https://goo.gl/forms/ddMQE36kWievsmG92, including a title and abstract. Please direct questions to Matt Jones (mjones@columbia.edu) and/or Jonnie Penn (jnp28@cam.ac.uk). The hard deadline is March 18, 2019, at 5pm.
 
 Join a new list serve on the History of AI here: https://lists.cam.ac.uk/mailman/listinfo/ucam-cfi-aihistoriansnetwork .
 
@@ -38,6 +38,8 @@ Organizers:
 
 
 - Aaron Plasek, Columbia
+
+
 
 Current Funders:
 
