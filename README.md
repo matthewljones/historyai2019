@@ -1,7 +1,7 @@
 
+## Towards a History of Artificial Intelligence
 
-Towards a History of Artificial Intelligence
-Workshop at Columbia University
+### Workshop at Columbia University
 May 24, 2019
 
 No thorough professional history of artificial intelligence and machine learning from World War II to the present exists, despite the longstanding importance of the field to intellectual history, the history of science and technology, and its spectacular and explosive rise in quotidian systems worldwide in the last decade, for good, for evil—and, well, for--the jury’s still out. Numerous participant histories, written by former researchers, provide a rich if largely internalist view of the field’s development.
@@ -22,15 +22,23 @@ We invite you to contribute to this volume by filling out this form, including a
 
 
 Organizers:
-Stephanie Dick, History and Sociology of Science and Medicine, Pennsylvania
-Matthew L. Jones, Columbia; Big Data and Science Studies Cluster, Center for Science and Society
-Jonnie Penn, Cambridge (HPS), Harvard Berkman Klein, and Leverhulme Centre for History of the Future of Intelligence
-Aaron Plasek, Columbia
+
+- Stephanie Dick, History and Sociology of Science and Medicine, Pennsylvania
+
+- Matthew L. Jones, History, Columbia; Big Data and Science Studies Cluster, Center for Science and Society
+
+- Jonnie Penn, HPS, Cambridge, Harvard Berkman-Klein, and Leverhulme Centre for History of the Future of Intelligence
+
+- Aaron Plasek, Columbia
 
 Current Funders:
+
 Center for Science and Society, Columbia University
+
 Division of Social Science, Columbia University
+
 Leibniz Fund
+
 Leverhulme Centre for History of the Future of Intelligence
 
 
